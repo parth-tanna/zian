@@ -1,3 +1,6 @@
 hello world java
 
-java is robust.
+
+robust.
+java is easy.
+
